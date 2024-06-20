@@ -1,7 +1,7 @@
 
 # Calcolatrice
 **The Mulan Project**
-Un ''semplice'' calcolatrice realizzata in Javascript Vanilla e Tailwind in stile Mulan. 
+Una ''semplice'' calcolatrice realizzata in Javascript Vanilla e Tailwind in stile Mulan. 
 
 **Repository GitHub**
 https://github.com/Robbs17/theMulanProject
